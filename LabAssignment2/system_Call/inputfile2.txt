@@ -1,0 +1,3 @@
+Hi
+this is input file 2
+from the task1

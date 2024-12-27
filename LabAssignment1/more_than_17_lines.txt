@@ -1,0 +1,18 @@
+Line 1: This is the first line of the text file.
+Line 2: Here's the second line, adding more content.
+Line 3: The third line comes next, continuing the flow.
+Line 4: Another line to keep the count going.
+Line 5: Five lines already, but we're not stopping yet.
+Line 6: Here's the sixth line of this simple text file.
+Line 7: Lucky number seven is now represented here.
+Line 8: Eight lines in, we're almost halfway to seventeen.
+Line 9: The ninth line makes an appearance here.
+Line 10: Double digits! Line ten arrives.
+Line 11: Just six more to reach our target.
+Line 12: Line twelve is in the mix now.
+Line 13: Thirteen might be unlucky for some, but not here.
+Line 14: Line fourteen is here to bridge the gap.
+Line 15: We're so close now with fifteen lines done.
+Line 16: One more after this sixteenth line.
+Line 17: Seventeen lines completed successfully!
+Line 18: Bonus line, just for good measure.

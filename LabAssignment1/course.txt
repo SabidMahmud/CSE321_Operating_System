@@ -1,0 +1,6 @@
+CourseID course_name section 
+CSE321   operating system 15
+CSE260   digital logic design 05
+ECO102   Introduction to macroeconomics 06
+MAT215   Nam vule gechi :( 01
+
